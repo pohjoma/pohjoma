@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pohjoma
-- 👀 I’m interested in python,  IOT. I have been workin in IT field 40 years. Master degree in Information Technology. And now just testing interesting things for fun. 66 yrs old.
+- 👀 I’m interested in python, machine learning, data science,  IOT. I have been workin in IT field 40 years. Master degree in Information Technology. And now just testing interesting things for fun. 66 yrs old.
 - 🌱 I’m currently learning machine learning and python
 - 💞️ I’m looking to collaborate on any projects.
 - 📫 How to reach me : mjpohjola@gmail.com
